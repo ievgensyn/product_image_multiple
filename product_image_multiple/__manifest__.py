@@ -17,7 +17,7 @@
 ###################################################################################
 {
     'name': 'Product Multiple Images & Videos',
-    'version': '1.0',
+    'version': '13.0.1.0.0',
     'summary': """Add Multiple Images & YouTube into Your Products""",
     'description': """""",
     'category': 'Base',
